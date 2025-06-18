@@ -34,4 +34,5 @@ Commands
 ## Safety
 
 Review the code for your own safety
-No responsibility on any errors, bugs, faults, ...
+
+No responsibility for any errors, bugs, faults, ...
